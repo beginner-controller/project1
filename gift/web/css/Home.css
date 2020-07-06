@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /*font-family: "宋体";*/
+}
+.login-1{
+    margin-left: 10px;
+    display: inline-block;
+    color: #ffffff;
+}
+.login-2{
+    color: red;
+    display: inline-block;
+}
+.login-3{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: -10px;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.box-one{
+    height: 1400px;
+}
+.image{
+    height: 700px;
+    padding: 0;
+}
+.image-one{
+    width: 59%;
+    height: 100%;
+    display: inline-block;
+}
+#pic1{
+    width: 100%;
+    height: 100%;
+}
+.login{
+    position: absolute;
+    margin-left: 20px;
+    top: 20px;
+    display: inline-block;
+}
+.Home{
+    position: absolute;
+    left: 1470px;
+    top: 50px;
+    display: inline-block;
+}
+.image-two{
+    width: 40.99%;
+    height: 100%;
+    margin-left: -5px;
+    /*行块*/
+    display: inline-block;
+}
+#pic2{
+    width: 100%;
+    height: 100%;
+}
+ul{
+    margin-top: -60px;
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #000000;
+    border-radius: 6px;
+}
+.shopping{
+    margin-top: 30px;
+}
+.p{
+    text-align: center;
+}
+#p1{
+    font-size: 50px;
+}
+#p2{
+    margin-top: -50px;
+}
+.shopping-s{
+    text-align: center;
+}
+.shopping1,.shopping2,.shopping3,.shopping4,.shopping5,.shopping6{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+}
+.shopping-1,.shopping-2,.shopping-3,.shopping-4,.shopping-5,.shopping-6{
+    display: inline-block;
+    margin-left: 10px;
+}
+.txt-1{
+    display: inline-block;
+}
+.Exclusive{
+    height: 500px;
+    background: #dcdcdc;
+}
+.made{
+    display: inline-block;
+    width: 530px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.lre-txt{
+    font-size: 30px;
+    display: inline-block;
+}
+.lre-txt1{
+    margin-top: -20px;
+}
+#button{
+    display: inline-block;
+    font-size: 20px;
+    width: 170px;
+    height: 50px;
+    background: black;
+    color: gainsboro;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.lre{
+    float: right;
+    margin-right: 11%;
+    margin-top: 17px;
+    height: 90%;
+}

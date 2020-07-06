@@ -1,0 +1,214 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "宋体";
+    background-color: #ffefd5;
+}
+.box-one{
+    height: 80px;
+    background-color: #ffffff;
+    margin-bottom: 7px;
+}
+.box-one-a{
+    font-size: 20px;
+}
+#name{
+    display: inline-block;
+    font-size: 40px;
+    line-height: 20%;
+    margin-left: 100px;
+    margin-right: 115px;
+    margin-top: 30px;
+    color: #fafafa;
+    letter-spacing: 0;
+    text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+}
+.red{
+    background-color: #cd853f;
+    height: 20px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.fengexian-01{
+    border: 2px solid #ff4500;
+    margin-top: 5px;
+}
+p{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+    margin-left: 20px;
+}
+span{
+    margin-left: 360px;
+    font-family: "Times New Roman", Times, serif;
+    color: #333;
+}
+.box-two{
+    width: 1200px;
+    height: 70px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #ffefd5;
+    z-index: 2;
+    position: relative;
+}
+.box-two-p{
+    position: absolute;
+    margin-left: 30px;
+    font-size: 30px;
+    margin-top: 18px;
+    font-weight: 600;
+}
+.box-two-one {
+    position: absolute;
+    display: inline-block; /*显示一个行块元素*/
+    margin-left: 200px;
+    font-size: 23px;
+    margin-top: 5px;
+}
+.box-two-two{
+    position: absolute;
+    display: inline-block; /*显示一个行块元素*/
+    margin-left: 300px;
+    font-size: 23px;
+    margin-top: 5px;
+}
+.box-two-three{
+    position: absolute;
+    display: inline-block; /*显示一个行块元素*/
+    margin-left: 400px;
+    font-size: 23px;
+    margin-top: 5px;
+}
+.sgs1 {
+    display: none; /*隐藏元素*/                                     /*下拉框设置*/
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 1168px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    margin-left: -200px;
+    margin-top: -8px;
+}
+.sgs2 {
+    display: none; /*隐藏元素*/
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 1168px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    margin-left: -300px;
+    margin-top: -8px;
+}
+.sgs3 {
+    display: none; /*隐藏元素*/
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 1168px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    margin-left: -400px;
+    margin-top: -8px;
+}
+.box-two-one:hover .sgs1 {
+    display: block;
+}
+a:hover{
+    /*color: red; !*鼠标事件划过*!*/
+    color: #ffffff;
+    background-color: red;
+}
+.box-two-two:hover .sgs2 {
+    display: block;
+}
+.box-two-three:hover .sgs3 {
+    display: block;
+}
+.sgs1-p1{
+    margin-right: 6px;
+    font-size: 17px;
+    font-family: "宋体";
+}
+.box-two-p1:hover{
+    color: red;
+}
+.box-two-p2:hover{
+    color: red;
+}
+.box-two-p3:hover{
+    color: red;
+}
+.fengexian-10{
+    border: 2px solid #ff4500;
+    margin-top: 5px;
+    width: 1190px;
+    margin: 0 auto;
+}
+.box-three{
+    width: 1200px;
+    height: 2000px;
+    margin-top: 7px;
+    margin-left: 353px;
+    background-color: #ffefd5;
+    z-index: 1;
+    position: absolute;
+}
+.box-three-one {
+    display: inline-block;
+    width: 32.7%;
+    height: 300px;
+    background-color: #ffefd5;
+    margin-bottom: 4px;
+    border: 1px solid pink;
+}
+.box-three-img1{
+    position: absolute;
+    width: 345px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.box-three-p0{
+    position: absolute;
+    display: inline-block;
+    margin-top: 240px;
+    margin-left: 35px;
+    /*font-family: "隶书";*/
+    font-size: 18px;
+}
+.box-three-a{
+    position: absolute;
+    display: inline-block;
+    margin-top: 267px;
+    margin-left: 300px;
+    font-family: "黑体";
+    font-size: 16px;
+    color: #c0c0c0;
+}
+.box-three-p1{
+     position: absolute;
+     display: inline-block;
+     margin-top: 267px;
+     margin-left: 310px;
+     font-family: "黑体";
+     font-size: 16px;
+    color: #c0c0c0;
+ }
+.box-three-img2{
+    position: absolute;
+    display: inline-block;
+    margin-top: 270px;
+    margin-left: 35px;
+}
+.box-three-a0{
+    position: absolute;
+    display: inline-block;
+    margin-top: 270px;
+    margin-left: 60px;
+    font-size: 15px;
+    color: #666666;
+}

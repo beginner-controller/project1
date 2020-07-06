@@ -1,0 +1,222 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "宋体";
+    background-color: #ffefd5;
+}
+.box-one{
+    height: 80px;
+    background-color: #ffffff;
+    margin-bottom: 7px;
+}
+.box-one-a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #000000;
+    margin-left: 20px;
+}
+#name{
+    display: inline-block;
+    font-size: 40px;
+    line-height: 20%;
+    margin-left: 100px;
+    margin-right: 115px;
+    margin-top: 30px;
+    color: #fafafa;
+    letter-spacing: 0;
+    text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+}
+.red{
+    background-color: #cd853f;
+    height: 20px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+#box1{
+    width: 1108px;
+    margin-left: 400px;
+    height: 1900px;
+}
+.box1-one{
+    background-color: #ffefd5;
+    width: 60%;
+    /*height: 600px;*/
+    display: inline-block;
+}
+.fengexian-01{
+    border: 2px solid #ff4500;
+    margin-top: 5px;
+}
+span{
+    /*padding-top: 16px;*/
+    font-family: "Times New Roman", Times, serif;
+    color: #333;
+}
+#home{
+    font-size: 20px;
+    font-family: "宋体";
+    /*margin-left: 120px;*/
+    text-decoration: none;
+    height: 20px;
+    padding-top: 10px;
+    text-align: center;
+    list-style: none;
+    background-color: #ffefd5;
+}
+h3{
+    font-family: "宋体";
+    font-weight: 400;
+    margin-left: 7px;
+    background-color: #ffefd5;
+    font-weight: 400;
+    padding: 0;
+}
+.p-p{
+    font-family: "宋体";
+    font-size: 18px;
+    margin: -10px 5px -10px 53px;
+    background-color: #ffefd5;
+    padding: 0;
+}
+#fengexian1{
+    border: 0.5px solid #000;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+#fengexian2{
+    border: 0.5px dashed #000;
+    margin-top: 15px;
+}
+#sbox1-2{
+    margin-left: 255px;
+    margin-top: 8px;
+}
+#sbox1-2-1{
+    font-size: 18px;
+    font-family: "楷体";
+    margin-left: 25px;
+}
+#sbox1-3{
+    font-size: 18px;
+    font-family: "楷体";
+    margin-left: 30px;
+}
+#sbox1-4{
+    font-size: 18px;
+    font-family: "楷体";
+    margin-left: 30px;
+}
+.fengexian-10{
+    border: 2px solid #ff4500;
+    margin-top: 5px;
+}
+.box1-two{
+    background-color: #ffefd5;
+    width: 28%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+.fengexian-11{
+    border: 2px solid #ff4500;
+    margin-top: 5px;
+}
+table{
+    /*margin: 0 auto;*/
+    margin-top: 10px;
+}
+td{
+    margin-left: 10px;
+}
+.td-a{
+    font-size: 18px;
+    font-family: "宋体";
+    /*background-color: #ffffff;*/
+    line-height: 80px;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    border: 1px solid #000000;
+    width: 90px;
+    height: 80px;
+    display: block;
+}
+.box-two-box2-div1{
+    /*border: 1px solid #000000;*/
+    margin-top: 3px;
+}
+.box-two-box2-p{
+    font-family: "宋体";
+    height: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.fengexian101{
+    border: 1px solid deeppink;
+    width: 99%;
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-bottom: 5px;
+}
+.image-one{
+    width: 330px;
+    height: 200px;
+    display: inline-block;
+}
+#pic1{
+    width: 310px;
+    height: 200px;
+    margin-left: 2px;
+}
+.ul-1{
+    margin-left: 10px;
+    margin-top: -40px;
+    display: inline-block;
+    /*无背景颜色*/
+    background-color: transparent;
+}
+.li-1{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    margin-left: 5px;
+}
+.box-two-box2-p{
+    font-family: "宋体";
+    height: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.fengexian10{
+    border: 1px solid deeppink;
+    width: 99%;
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-bottom: 5px;
+}
+.lianjie{
+    margin-top: 10px;
+    background-color: #ffffff;
+    padding: 10px;
+    font-size: 16px;
+}
+.lianjie a{
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffffff;
+    margin-left: 5px;
+    display: inline-block;
+    margin-top: 5px;
+    font-family: "宋体";
+    font-size: 17px;
+}
+.lianjie a:hover{
+    color: red;
+}
+.lianjie li{
+    background-color: #ffffff;
+}

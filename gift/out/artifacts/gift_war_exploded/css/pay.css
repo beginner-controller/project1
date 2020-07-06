@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box-top{
+    height: 60%;
+}
+.img-one{
+    width: 400px;
+    height: 360px;
+    border-radius: 9px;
+    margin-top: 40px;
+    margin-left: 300px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+span{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 45px;
+    border: 1px solid red;
+    color: red;
+    border-radius: 7px;
+    height: 22px;
+    width: 45px;
+    padding-left: 7px;
+}
+.Explanation{
+    display: inline-block;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 46px;
+}
+h1{
+    position: absolute;
+    display: inline-block;
+    color: red;
+    font-family: "宋体";
+    margin-left: 10px;
+    margin-top: 360px;
+}
+#add{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    color: #ffffff;
+    border: 1px solid red;
+    font-size: 22px;
+    margin-top: 365px;
+    margin-left: 650px;
+}
+#text{
+    position: absolute;
+    width: 20px;
+    font-size: 17px;
+    border: none;
+    margin-top: 369px;
+    margin-left: 685px;
+}
+#minub{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    color: #ffffff;
+    border: 1px solid red;
+    font-size: 22px;
+    margin-top: 365px;
+    margin-left: 700px;
+}
+.fengexian-01{
+    border: 0.5px solid #999999;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.select0{
+    display: inline-block;
+    margin-left: 1400px;
+    font-size: 30px;
+    font-family: "宋体";
+}
+.number{
+    border: none;
+    width: 20px;
+    font-size: 30px;
+    color: red;
+    margin-left: 5px;
+    font-family: "宋体";
+}
+.select1{
+    display: inline-block;
+    margin-left: -5px;
+    font-size: 30px;
+    font-family: "宋体";
+}
+.adds{
+    display: inline-block;
+    font-size: 30px;
+    font-family: "宋体";
+}
+.numbers{
+    border: none;
+    width: 50px;
+    font-size: 30px;
+    color: red;
+    font-family: "宋体";
+}
+.box-bottom{
+    height: 40%;
+    background-color: #888888;
+}
+#pays{
+    font-size: 40px;
+    font-family: "宋体";
+    width: 180px;
+    height: 80px;
+    border-radius: 9px;
+    color: #ffffff;
+    background-color: red;
+    margin-left: 850px;
+    margin-top: 50px;
+
+}

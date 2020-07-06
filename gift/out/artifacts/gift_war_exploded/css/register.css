@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "宋体";
+}
+.box-top{
+    height: 100%;
+    background-repeat:no-repeat;/*图片适应窗口大小，这里设置的是不进行平铺*/
+    background-attachment: fixed;/*图片相对于浏览器固定,这里设置背景图片固定，不随内容滚动*/
+    background-origin: border-box;/*从边框区域显示*/
+    background-size: cover;/*指定图片大小，此时会保持图像的纵横比并将图像缩放成将完全覆盖背景定位区域的最小大小*/
+}
+#login{
+    border-radius: 15px;
+    width: 400px;
+    margin-left: 40%;
+    height: 60%;
+    margin-top: 4%;
+    display: inline-block;
+    background-color: #dcdcdc;
+    opacity: 0.9;/*设置透明度，数值越大，透明度越低*/
+}
+caption{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 45%;
+}
+.name{
+    width: 260px;
+    height: 30px;
+    margin-left: 25%;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    border: none;
+    font-family: "黑体";
+    color: #808080;
+    padding-left: 5px;
+}
+.submit1{
+    font-size: 20px;
+    border-radius: 7px;
+    margin-left: 130px;
+    margin-top: 20px;
+    width: 120px;
+    height: 35px;
+}
+#box-button{
+    background: #dcdcdc;
+    height: 140px;
+    margin-top: -36px;
+}
+.button-1{
+    font-size: 36px;
+    margin-left: 800px;
+    padding-top: 20px;
+}
+.button-2{
+    margin-top: -20px;
+    font-size: 20px;
+    margin-left: 900px;
+}
+.yj{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -25px;
+}
